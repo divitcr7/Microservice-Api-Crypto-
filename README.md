@@ -116,4 +116,4 @@ Example of sending a GET request to subscribe wss channel:
 $ curl "http://localhost:8080/v1/ws/subscribe?fsym=BTC&tsym=USD"
 ```
 
-
+### I still need to build the part where the API can be tested , I'm working on it

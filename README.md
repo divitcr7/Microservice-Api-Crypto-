@@ -12,6 +12,9 @@ This microservice uses:
 * lib/pq package to work with postgresql database
 * go-redis/redis package for saving the active session and restoring it when the puller is restarted
 
+How the data is:
+![Screenshot from 2024-02-22 20-12-14](https://github.com/divitcr7/Microservice-Api-Crypto-/assets/67183559/b182853d-31d2-4283-908b-1720a298d190)
+
 
 ## Build app
 
